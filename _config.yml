@@ -21,11 +21,12 @@
 title: Mariah C. Boudreau
 email: mariah.boudreau@uvm.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Mathematical Sciences Ph.D. Student working within the Applied Math program, 
+  and the Vermont Complex Systems Center. I am also NSF Trainee in the Quantitative and 
+  Evolutionary STEM Traineeship (QuEST) program at the University of Vermont, 
+  which allows me to bring my quantitative skills to interdisciplinary work.
 baseurl: "/mariahcboudreau" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "mariahcboudreau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mariahboudreau
 github_username:  mariahcboudreau
 
