@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  
+
+website:
+  open-graph: true
+  title: "Nicholas Landry"
+  site-url: https://nwlandry.github.io
+  repo-url: https://github.com/nwlandry/nwlandry.github.io
+  favicon: assets/images/uvm.ico
+  twitter-card: 
+    creator: "@nwlandry"
+    site: "@nwlandry"
+    card-style: "summary_large_image"
+
+  navbar:
+    style: "floating"
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/publications.qmd
+        text: Publications
+      - href: pages/software.qmd
+        text: Software
+      - href: portfolio/index.qmd
+        text: Portfolio
+      - href: assets/docs/CV.pdf
+        text: CV
+      - href: pages/about.qmd
+        text: About
+      - href: blog/index.qmd
+    search: true
+    pinned: true
+
+format:
+  html:
+    theme: spacelab
+    toc: true
+    smooth-scroll: true
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    footnotes-hover: false
+    code-fold: true

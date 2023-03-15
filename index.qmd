@@ -1,0 +1,56 @@
+---
+title: "Mariah C. Boudreau"
+toc: false
+---
+
+<img src="/assets/images/headshot_nwlandry.jpg" width="25%" hspace="20" align="right">
+I’m the TGIR Postdoctoral Research Fellow at the University of Vermont. My research expertise is broadly the study of dynamics on complex systems, especially the spread of contagion on interaction networks involving group (higher-order) interactions. My research always starts with noticing things around me and asking, "why?" I’ve worked in both academia and industry which gives me a unique perspective on applied mathematics.
+
+My [portfolio](/portfolio/) is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/pages/about.qmd), [CV](/assets/docs/CV.pdf), or list of [publications](/pages/publications.qmd). You can also take a look at my [blog](/blog/).
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="mailto:nicholas.landry@uvm.edu" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+</a>
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=7xLeZqMAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i> Scholar
+</a>
+<a class="btn btn-outline-dark", href="https://twitter.com/nwlandry" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i> Twitter
+</a>
+<a class="btn btn-outline-dark", href="https://github.com/nwlandry" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i> Github
+</a>
+<a class="btn btn-outline-dark", href="https://orcid.org/0000-0003-1270-4980" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-orcid" role='img' aria-label='ORCID'></i> ORCID
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/landrynicholas/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+</a>
+```
+:::
+
+## Research Interests
+* Complex systems (particularly those involving higher-order interactions)
+* Contagion spread (disease, opinions, etc.)
+* Dynamical models of political processes
+* Dynamical systems
+
+## Recent News
+
+* **February 2023**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Polarization in hypergraphs with community structure* is on [ArXiv](https://doi.org/10.48550/arXiv.2302.13967)!
+* **January 2023**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is published in [PLoS ONE](https://doi.org/10.1371/journal.pone.0279345)!
+* **January 2023**: I gave a talk at the Network Science Institute at Northeastern.
+* **December 2022**: XGI is now a [NumFOCUS](https://numfocus.org/) Affiliated Project!
+* **November 2022**: I am now on Mastodon! My username/instance is [nwlandry@mathstodon.xyz](https://mathstodon.xyz/@nwlandry).
+* **October 2022**: I gave a demo of XGI and presented in-progress work on the polarizability of hypergraphs with community structure at CCS 2022 in Palma, Spain.
+* **October 2022**: I gave an invited talk on the polarizability of hypergraphs with community structure at the AMS Eastern Sectional Meeting in Amherst, MA.
+* **August 2022**: Juan G. Restrepo and I organized and chaired the [Contagion on Complex Social Systems workshop](https://www.colorado.edu/amath/caccss2022) in Boulder, CO! ([Photo](https://twitter.com/Juanga_Restrepo/status/1558535965517393920))
+* **July 2022**: I gave a demo of XGI and presented in-progress work on polarization of hypergraphs with community structure at NetSci 2022.
+* **July 2022**: I participated in a hackathon in Portland, ME hosted by NetSci at Northeastern.
+* **June 2022**: I started as my position as the TGIR postdoctoral fellow at the University of Vermont!
+* **May 2022**: Joint work with [Juan G. Restrepo](https://www.colorado.edu/amath/restrepo), *Hypergraph assortativity: a dynamical systems perspective* is published in [Chaos](https://doi.org/10.1063/5.0086905) as part of the Dynamics on Networks with Higher-Order Interactions special issue.
+* **May 2022**: Joint work with [jimi adams](https://jimiadams.github.io) on the limitations of using uniplex data representations for modeling multiplex contagion is now available on the [ArXiv](https://doi.org/10.48550/arXiv.2204.12348).
+* **March 2022**: I gave a talk at NERCCS 2022 on how community structure in hypergraphs can lead to polarization and won Best Oral Presentation.
+* **March 2022**: I defended my dissertation and am now a Doctor of Applied Mathematics!
