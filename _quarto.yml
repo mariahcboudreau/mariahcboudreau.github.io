@@ -26,9 +26,6 @@ website:
       - href: pages/publications.qmd
         text: Publications
       - href: portfolio/index.qmd
-        text: Portfolio
-        text: CV
-      - href: pages/about.qmd
         text: About
       - href: blog/index.qmd
     search: true
