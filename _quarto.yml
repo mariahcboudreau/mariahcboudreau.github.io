@@ -7,13 +7,13 @@ project:
 
 website:
   open-graph: true
-  title: "Nicholas Landry"
-  site-url: https://nwlandry.github.io
-  repo-url: https://github.com/nwlandry/nwlandry.github.io
+  title: "Mariah C. Boudreau"
+  site-url: https://mariahcboudreau.github.io
+  repo-url: https://github.com/mariahcboudreau/mariahcboudreau.github.io
   favicon: assets/images/uvm.ico
   twitter-card: 
-    creator: "@nwlandry"
-    site: "@nwlandry"
+    creator: "@Mariah-Boudreau"
+    site: "@Mariah-Boudreau"
     card-style: "summary_large_image"
 
   navbar:
@@ -25,11 +25,8 @@ website:
         text: Home
       - href: pages/publications.qmd
         text: Publications
-      - href: pages/software.qmd
-        text: Software
       - href: portfolio/index.qmd
         text: Portfolio
-      - href: assets/docs/CV.pdf
         text: CV
       - href: pages/about.qmd
         text: About
