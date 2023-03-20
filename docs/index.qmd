@@ -4,7 +4,7 @@ toc: false
 ---
 
 <img src="/assets/images/headshot2022part2.jpg" width="50%" hspace="20" align="right">
-I’m a fourth year Ph.D. student in the [Joint Lab] and [Computational Story Lab]() at the [Vermont Complex Systems Center]. 
+I’m a fourth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) student in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/) at the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/). 
 
 My portfolio is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/pages/about.qmd), CV, or list of publications. You can also take a look at my [blog](/blog/).
 
@@ -35,5 +35,5 @@ My portfolio is a collection of some projects that I’ve worked on personally, 
 
 ## Recent News
 
-* **February 2023**: Published , *more about it here* is on !
+* **February 2023**: Posted *Temporal and probabilistic  , *more about it here* is on !
 
