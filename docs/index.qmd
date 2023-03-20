@@ -3,14 +3,14 @@ title: "Mariah C. Boudreau"
 toc: false
 ---
 
-<img src="/assets/images/headshot2022part2.jpg" width="25%" hspace="20" align="right">
-I’m a fourth year Ph.D. student in the LSD and Computational Story Lab at the University of Vermont. 
+<img src="/assets/images/headshot2022part2.jpg" width="50%" hspace="20" align="right">
+I’m a fourth year Ph.D. student in the [Joint Lab] and [Computational Story Lab]() at the [Vermont Complex Systems Center]. 
 
 My portfolio is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/pages/about.qmd), CV, or list of publications. You can also take a look at my [blog](/blog/).
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:nicholas.landry@uvm.edu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:mariah.boudreau@uvm.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=7xLeZqMAAAAJ" target="_blank" rel="noopener noreferrer">
@@ -35,5 +35,5 @@ My portfolio is a collection of some projects that I’ve worked on personally, 
 
 ## Recent News
 
-* **February 2023**: Example work with person, *more about it here* is on !
-* **January 2023**: Example work with person  on the limitations of using uniplex data representations for modeling multiplex contagion is published in !
+* **February 2023**: Published , *more about it here* is on !
+
