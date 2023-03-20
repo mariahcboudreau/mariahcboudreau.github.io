@@ -3,7 +3,7 @@ title: "Mariah C. Boudreau"
 toc: false
 ---
 
-<img src="/assets/images/headshot2022\ copy.jpg" width="25%" hspace="20" align="right">
+<img src="/assets/images/headshot2022part2.jpg" width="25%" hspace="20" align="right">
 I’m a fourth year Ph.D. student in the LSD and Computational Story Lab at the University of Vermont. 
 
 My portfolio is a collection of some projects that I’ve worked on personally, professionally, and academically. For more about me, see my [bio](/pages/about.qmd), CV, or list of publications. You can also take a look at my [blog](/blog/).
@@ -16,16 +16,13 @@ My portfolio is a collection of some projects that I’ve worked on personally, 
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=7xLeZqMAAAAJ" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i> Scholar
 </a>
-<a class="btn btn-outline-dark", href="https://twitter.com/nwlandry" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://twitter.com/mariah-boudreau" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-twitter" role='img' aria-label='Twitter'></i> Twitter
 </a>
-<a class="btn btn-outline-dark", href="https://github.com/nwlandry" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://github.com/mariahcboudreau" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-github" role='img' aria-label='Github'></i> Github
 </a>
-<a class="btn btn-outline-dark", href="https://orcid.org/0000-0003-1270-4980" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-orcid" role='img' aria-label='ORCID'></i> ORCID
-</a>
-<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/landrynicholas/" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/mariah-boudreau-940291147/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
 </a>
 ```

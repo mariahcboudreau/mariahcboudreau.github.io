@@ -1,28 +1,31 @@
----
+___
 title: "Publications"
 echo: false
 jupyter: python3
 section-divs: false
 keep-md: true
----
+___
 
 ```{python}
 from utilities import *
 pub_strs = load_publication_data("../publications.yaml")
 ```
 
-*My list of publications is also on [Google Scholar](https://scholar.google.com/citations?user=7xLeZqMAAAAJ).*
+
+*My list of publications is also on [Google Scholar](https://scholar.google.com/citations?user=yYcYoIMAAAAJ&hl=en)
+
 
 ## Published
+
 
 ```{python}
 #| label: "published-year"
 #| id: "published-year"
 #| output: asis
-for year in sorted(pub_strs["pubs"], reverse=True):
-    display(HTML(
-        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) + "</ul>"
-    ))
+for year in sorted(pub_strs["pubs"], reverse = True):
+	display(HTML(
+			"<ul class ='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) = "</ul>"
+	))
 ```
 
 
@@ -30,26 +33,15 @@ for year in sorted(pub_strs["pubs"], reverse=True):
 ```{python}
 
 if len(pub_strs["wps"]) == 0:
-    display(HTML(
-        "Currently no unpublished work."
-    ))
+	display(HTML(
+		"Currently no unpublished work."
+	))
 #| label: "not-published-year"
 #| id: "not-published-year"
 #| output: asis
-for year in sorted(pub_strs["wps"], reverse=True):
-    display(HTML(
-        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["wps"][year]) + "</ul>"
-    ))
+for year in sorted(pub_strs["pubs"], reverse = True):
+	display(HTML(
+			"<ul class ='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) = "</ul>"
+	))
 ```
 
-## Theses
-
-```{python}
-#| label: "theses-published-year"
-#| id: "theses-published-year"
-#| output: asis
-for year in sorted(pub_strs["theses"], reverse=True):
-    display(HTML(
-        "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["theses"][year]) + "</ul>"
-    ))
-```

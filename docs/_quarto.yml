@@ -25,9 +25,10 @@ website:
         text: Home
       - href: pages/publications.qmd
         text: Publications
-      - href: portfolio/index.qmd
+      - href: pages/about.qmd
         text: About
       - href: blog/index.qmd
+      - text: Blog
     search: true
     pinned: true
 
