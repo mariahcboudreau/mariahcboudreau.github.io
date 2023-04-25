@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: mysite
+  output-dir: _site
   render:
     - "*.qmd"
   
