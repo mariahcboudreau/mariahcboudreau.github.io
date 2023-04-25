@@ -24,7 +24,6 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-      - href: blog.qmd
     search: true
     pinned: true
 
