@@ -35,5 +35,5 @@ I am a fourth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathst
 
 ## Recent News
 
-* **February 2023**: Joint work with Andrea J. Allen, Nicholas J. Roberts, Antoine Allard and Laurent Hebert-Dufresne, *Temporal and probabilistic foreceast of epidemic interventions* is on [ArXiv](https://arxiv.org/abs/2302.03210)!
+* **February 2023**: Joint work with Andrea J. Allen, Nicholas J. Roberts, Antoine Allard and Laurent Hebert-Dufresne, *Temporal and probabilistic forecast of epidemic interventions* is on [ArXiv](https://arxiv.org/abs/2302.03210)!
 
