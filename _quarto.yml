@@ -24,6 +24,8 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
+      - href: CV.pdf
+        text: CV
     search: true
     pinned: true
 
