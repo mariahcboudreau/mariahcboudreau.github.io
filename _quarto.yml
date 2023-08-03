@@ -26,6 +26,8 @@ website:
       - href: about.qmd
       - href: CV.pdf
         text: CV
+      - href: Resume.pdf
+        text: Resume
     search: true
     pinned: true
 
