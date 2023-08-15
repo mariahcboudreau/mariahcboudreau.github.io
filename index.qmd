@@ -37,6 +37,8 @@ I am a fourth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathst
 
 ## Recent News
 
+* **August 2023**: Presented a contributed talk titled *Sensitivity analysis of stochastic polynomials, and its application to epidemic forecasting and random graphs* at Contagion on Complex Social Systems 2023 at the University of Vermont. 
+
 * **May 2023**: Presented on the preprint titled *Temporal and probabilistic forecasts of epidemic interventions* at the Women in Network Science Minisymposium at [SIAM Dynamical Systems](https://www.siam.org/conferences/cm/conference/ds23) 2023 Conference in Portland, Oregon.
 
 * **May 2023**: Attended the [Women in Network Science Collabathon](https://sites.google.com/view/womeninnetworkscience/meetings/collabathon-2023) at the Network Science Institute at Northeastern University. 
