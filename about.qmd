@@ -4,7 +4,7 @@ title: "About"
 
 <img src="/images/roboctopus.jpg" width="35%" hspace="10" align="right">
 
-I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelor's of Science in Mathematics at Saint Michael's College. After graduating, I jumped right into my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and at the Vermont Complex Systems Center. 
+I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelor of Science in Mathematics at Saint Michael's College. After graduating, I jumped right into my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and at the Vermont Complex Systems Center. 
 
 
 
