@@ -31,11 +31,12 @@ I am a fourth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathst
 
 ## Research Interests
 * Mathematical models for complex systems
-* Network science
 * Stochastic modeling
 * Disease dynamics
 
 ## Recent News
+
+* **September 2023**: Attended the [Grace Hopper Celebration for Women in Tech](https://ghc.anitab.org/) in Orlando, Florida to explore career opportunities and attend invited talks.
 
 * **August 2023**: Presented a contributed talk titled *Sensitivity analysis of stochastic polynomials, and its application to epidemic forecasting and random graphs* at Contagion on Complex Social Systems 2023 at the University of Vermont. 
 
