@@ -4,7 +4,7 @@ title: "Welcome!"
 
 <img src="/images/headshot.jpg" width="60%" hspace="20" align="center">
 
-I am a fourth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) student in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/) at the [Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). My research has mostly focused on network science applied to biology. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
+I am a fifth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) student in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/) at the [Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). My research has mostly focused on network science applied to biology. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
 
 **I am on the job market!** Looking to exploring postdoctoral and industry positions. Expected graduation date May 2024.
 
