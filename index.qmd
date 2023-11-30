@@ -6,7 +6,7 @@ title: "Welcome!"
 
 I am a fifth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) candidate in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/) at the [Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). My research has mostly focused on network science applied to biology. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
 
-**I am on the job market!** Looking to explore postdoctoral and industry positions. I am open to using my skill set on a wide variety of complex problems. Expected graduation date May 2024.
+**I am on the job market!** Looking to explore industry positions. I am open to using my skill set on a wide variety of complex problems. Expected graduation date May 2024.
 
 
 ::: {.column-page-inset .text-center}
@@ -34,7 +34,15 @@ I am a fifth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathsta
 * Stochastic modeling
 * Disease dynamics
 
+## Personal Interests
+* Mountain adventures (skiing, hiking, climbing)
+* Science fiction reading
+* Medical TV dramas
+
+
 ## Recent News
+
+* **October 2023**: Completed my comprehensive exam, making me a Ph.D. Candidate in Mathematical Sciences! 
 
 * **October 2023**: Joint work with Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and Laurent Hébert-Dufresne, *Temporal and probabilistic comparisons of epidemic interventions* is now available on [Bulletin of Mathematical Biology](https://link.springer.com/article/10.1007/s11538-023-01220-w)!
 
