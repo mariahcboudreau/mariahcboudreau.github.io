@@ -4,7 +4,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "M.C. Boudreau, A.J. Allen, N.J. Roberts, A. Allard, & L. Hébert-Dufresne| September 2023 Temporal and probabilistic comparisons of epidemic interventions Bull. of Math. Biol. 85, 118 (2023)\nR.M. Stuart, J.A. Cohen, C.C. Kerr, R.G. Abeysuriya, M. Zimmerman, D.W. Rao, M.C. Boudreau, & D.J. Klein | February 2023\\ HPVsim: An agent-based model of HPV transmission and cervical disease MedrXiv\nA.J. Allen, M.C. Boudreau, N.J. Roberts, A. Allard, & L. Hébert-Dufresne | February 2022 Predicting the diversity of early epidemic spread on networks Phys. Rev. Research 4, 013123"
+    "text": "M.C. Boudreau, A.J. Allen, N.J. Roberts, A. Allard, & L. Hébert-Dufresne | September 2023\nTemporal and probabilistic comparisons of epidemic interventions\nBull. of Math. Biol. 85, 118 (2023)\nR.M. Stuart, J.A. Cohen, C.C. Kerr, R.G. Abeysuriya, M. Zimmerman, D.W. Rao, M.C. Boudreau, & D.J. Klein | February 2023\nHPVsim: An agent-based model of HPV transmission and cervical disease\nMedrXiv\nA.J. Allen, M.C. Boudreau, N.J. Roberts, A. Allard, & L. Hébert-Dufresne | February 2022\nPredicting the diversity of early epidemic spread on networks\nPhys. Rev. Research 4, 013123"
   },
   {
     "objectID": "docs/about.html",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "I am a fifth year Mathematical Sciences Ph.D. candidate in the Joint Lab and Computational Story Lab at the Vermont Complex Systems Center at the University of Vermont (UVM). My research has mostly focused on network science applied to biology. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes.\nI am on the job market! Looking to explore industry positions. I am open to using my skill set on a wide variety of complex problems. Expected graduation date Summer 2024."
+    "text": "I am a fifth year Mathematical Sciences Ph.D. candidate in the Joint Lab and Computational Story Lab at the Vermont Complex Systems Center at the University of Vermont (UVM). My research has mostly focused on network science applied to biology. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes.\nI am on the job market! Looking to explore industry positions. I am open to using my skill set on a wide variety of complex problems. Expected graduation date summer 2024."
   },
   {
     "objectID": "index.html#research-interests",
