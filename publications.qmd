@@ -10,11 +10,9 @@ title: "Publications"
 Bull. of Math. Biol. 85, 118 (2023) 
 
 
-R.M. Stuart, J.A. Cohen, C.C. Kerr, R.G. Abeysuriya, M. Zimmerman, D.W. Rao, **M.C. Boudreau**, & D.J. Klein | February 2023
-
-[*HPVsim: An agent-based model of HPV transmission and cervical disease*](https://www.medrxiv.org/content/10.1101/2023.02.01.23285356v1)
-
-MedrXiv
+R.M. Stuart, J.A. Cohen, C.C. Kerr, R.G. Abeysuriya, M. Zimmerman, D.W. Rao, **M.C. Boudreau**, & D.J. Klein | February 2023\
+[*HPVsim: An agent-based model of HPV transmission and cervical disease*](https://www.medrxiv.org/content/10.1101/2023.02.01.23285356v1)\
+MedrXiv\
 
 
 A.J. Allen, **M.C. Boudreau**, N.J. Roberts, A. Allard, & L. Hébert-Dufresne | February 2022
