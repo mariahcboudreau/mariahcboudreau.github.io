@@ -28,7 +28,7 @@ website:
         text: CV
       - href: Resume.pdf
         text: Resume
-      - href: publication.qmd
+      - href: publications.qmd
         text: Publication
     search: true
     pinned: true
