@@ -43,3 +43,5 @@ format:
       - includes.html
     footnotes-hover: false
     code-fold: true
+    grid:
+      body-width: 1100px
