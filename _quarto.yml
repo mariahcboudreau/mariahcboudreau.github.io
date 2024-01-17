@@ -29,7 +29,7 @@ website:
       - href: Resume.pdf
         text: Resume
       - href: publications.qmd
-        text: Publication
+        text: Publications
     search: true
     pinned: true
 
