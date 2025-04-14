@@ -11,10 +11,7 @@ website:
   site-url: https://mariahcboudreau.github.io
   repo-url: https://github.com/mariahcboudreau/mariahcboudreau.github.io
   favicon: assets/images/uvm.ico
-  twitter-card: 
-    creator: "@Mariah-Boudreau"
-    site: "@Mariah-Boudreau"
-    card-style: "summary_large_image"
+ 
 
   navbar:
     style: "floating"
@@ -28,8 +25,6 @@ website:
         text: CV
       - href: Resume.pdf
         text: Resume
-      - href: publications.qmd
-        text: Publications
     search: true
     pinned: true
 
