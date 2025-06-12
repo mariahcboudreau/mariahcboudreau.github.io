@@ -38,7 +38,7 @@ I am a Postdoctoral Researcher with the Computational Medicine research group at
 
 ## Recent News
 
-* **September 2024**: Started as a Postdoctoral Researcher with the Computational Medicine research group at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/) in Portland, ME. 
+* **September 2024**: Started as a Postdoctoral Researcher with the Modeling of Biological and Socio-technical Systems ([MOBS](https://www.mobs-lab.org/) Lab and the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/) in Portland, ME. 
 
 * **July 2024**: Successfully [defended](https://www.youtube.com/watch?v=FQ_YMGxsWEk) my dissertation, *Probabilistic modeling of disease: addressing uncertainties in within-host and population-level dynamics*. 
 
