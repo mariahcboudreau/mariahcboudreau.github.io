@@ -38,9 +38,11 @@ I am a Postdoctoral Researcher with the [Network Science Institute](https://www.
 
 ## Recent News
 
-* **September 2024**: Started as a Postdoctoral Researcher with the Modeling of Biological and Socio-technical Systems ([MOBS])(https://www.mobs-lab.org/) Lab and the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/) in Portland, ME. 
+* **February 2025**: Presented *Modeling disease spread with probability generating functions* at the WiNS online seminar.
 
-* **July 2024**: Successfully [defended](https://www.youtube.com/watch?v=FQ_YMGxsWEk) my dissertation, *Probabilistic modeling of disease: addressing uncertainties in within-host and population-level dynamics*. 
+* **September 2024**: Started as a Postdoctoral Researcher with the [Modeling of Biological and Socio-technical Systems](https://www.mobs-lab.org/) Lab and the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/) in Portland, ME. 
+
+* **July 2024**: Successfully [defended](https://www.youtube.com/watch?v=FQ_YMGxsWEk) my dissertation, *Probabilistic modeling of disease: Addressing uncertainties in within-host and population-level dynamics*. 
 
 * **June 2024**: Attended and presented work from the joint work, *Temporal and probabilistic comparisons of epidemic interventions*, at [NetSci 2024](https://netsci2024.com/en) in Québec City.
 
