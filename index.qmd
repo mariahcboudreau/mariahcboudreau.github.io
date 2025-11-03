@@ -10,7 +10,7 @@ I am a Postdoctoral Researcher with the [Network Science Institute](https://www.
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:mar.boudreau@northeastnern.edu" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:mar.boudreau@northeastern.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=yYcYoIMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
