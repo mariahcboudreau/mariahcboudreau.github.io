@@ -6,6 +6,8 @@ title: "Mariah C. Boudreau"
 
 I am a Postdoctoral Researcher with the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/). I received a [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) from the [Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). While at UVM, I worked in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/). My research has mostly focused on network science applied to infectious diesase. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
 
+Along with my interest in disease dynamics, my technical skills have made it possible for me to understand and learn about various aspects of the complex world around me, whether that be applied to biometric data, air-travel networks, or snow fall data. 
+
 
 
 ::: {.column-page-inset .text-center}
@@ -37,6 +39,8 @@ I am a Postdoctoral Researcher with the [Network Science Institute](https://www.
 
 
 ## Recent News
+
+* **December 2025**: Presented a poster titled *Modeling and optimization of multimodal travel-based surveillance at airports* at [Epidemics10](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics) in San Diego.
 
 * **February 2025**: Presented *Modeling disease spread with probability generating functions* at the WiNS online seminar.
 
