@@ -2,9 +2,9 @@
 title: "Mariah C. Boudreau"
 ---
 
-<img src="/images/headshot.jpeg" width="60%" hspace="20" align="center">
+<img src="/images/headshot.jpeg" width="20%" hspace="20" align="center">
 
-I am a Postdoctoral Researcher with the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/). I received a [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) from the [Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). While at UVM, I worked in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/). My research has mostly focused on network science applied to infectious diesase. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
+I am a Postdoctoral Researcher with the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/). I received a [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) from the [Vermont Complex Systems Institute at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). While at UVM, I worked in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/). My research has mostly focused on network science applied to infectious diesase. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
 
 Along with my interest in disease dynamics, my technical skills have made it possible for me to understand and learn about various aspects of the complex world around me, whether that be applied to biometric data, air-travel networks, or snow fall data. 
 
