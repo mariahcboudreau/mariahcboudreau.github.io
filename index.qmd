@@ -2,7 +2,7 @@
 title: "Mariah C. Boudreau"
 ---
 
-<img src="/images/headshot.jpg" width="60%" hspace="20" align="center">
+<img src="/images/headshot.jpeg" width="60%" hspace="20" align="center">
 
 I am a Postdoctoral Researcher with the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/). I received a [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) from the [Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). While at UVM, I worked in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/). My research has mostly focused on network science applied to infectious diesase. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
 
@@ -40,6 +40,8 @@ Along with my interest in disease dynamics, my technical skills have made it pos
 
 ## Recent News
 
+* **June 2026**: Presented a talk titled *Generating function framework for spatiotemporal outbreak analytics* at [NetSci 2026](https://www.netsci2026.com/) in Boston.
+
 * **December 2025**: Presented a poster titled *Modeling and optimization of multimodal travel-based surveillance at airports* at [Epidemics10](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics) in San Diego.
 
 * **February 2025**: Presented *Modeling disease spread with probability generating functions* at the WiNS online seminar.
@@ -48,7 +50,7 @@ Along with my interest in disease dynamics, my technical skills have made it pos
 
 * **July 2024**: Successfully [defended](https://www.youtube.com/watch?v=FQ_YMGxsWEk) my dissertation, *Probabilistic modeling of disease: Addressing uncertainties in within-host and population-level dynamics*. 
 
-* **June 2024**: Attended and presented work from the joint work, *Temporal and probabilistic comparisons of epidemic interventions*, at [NetSci 2024](https://netsci2024.com/en) in Québec City.
+* **June 2024**: Presented joint work, *Temporal and probabilistic comparisons of epidemic interventions*, at [NetSci 2024](https://netsci2024.com/en) in Québec City.
 
 * **October 2023**: Completed my comprehensive exam, making me a Ph.D. Candidate in Mathematical Sciences! 
 
@@ -70,5 +72,5 @@ Along with my interest in disease dynamics, my technical skills have made it pos
 
 * **February 2023**: Joint work with Robyn M. Stuart, Jamie A. Cohen, Cliff C. Kerr, Romesh G. Abeysuriya, Marita Zimmerman, Darcy W. Rao, and Daniel J. Klein, *HPVsim: An agent-based model of HPV transmission and cervical disease* from my contract work with the Gates Foundation is now available on [medRXiv](https://www.medrxiv.org/content/10.1101/2023.02.01.23285356v1.full.pdf+html)!
 
-* **May 2022**: Started my internship/contract work at the Institute for Disease Modeling at the Bill and Melinda Gates Foundation. 
+* **May 2022**: Started my internship/contract work at the Institute for Disease Modeling at the Gates Foundation. 
 
