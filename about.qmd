@@ -11,8 +11,11 @@ I am a Vermonter through and through. I grew up in Northern Vermont and got my B
 
 <img src="/images/mountain.jpg" width="35%" hspace="10" align="left">
 
-When I am not at my laptop or reading papers, you can find me either in the mountains, where I am hiking or skiing, or at a Crossfit class. 
+When I am not at my laptop or reading papers, you can find me either in the mountains, where I am hiking or skiing, or at a Crossfit class.
 
+<div style="clear: both;"></div>
 
-
-
+## Personal Interests
+* Mountain adventures (skiing, hiking)
+* Science fiction reading
+* Medical TV dramas

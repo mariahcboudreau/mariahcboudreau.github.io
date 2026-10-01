@@ -21,6 +21,10 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
+      - href: https://scholar.google.com/citations?user=yYcYoIMAAAAJ&hl=en
+        text: Publications
+      - href: news.qmd
+        text: News
       - href: CV.pdf
         text: CV
     search: true
