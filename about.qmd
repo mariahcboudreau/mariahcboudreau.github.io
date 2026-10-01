@@ -1,21 +1,34 @@
 ---
 title: "About"
+toc: false
 ---
 
-<img src="/images/roboctopus.jpg" width="35%" hspace="10" align="right">
-
-I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelor of Science in Mathematics at Saint Michael's College. After graduating, I jumped right into my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and the Vermont Complex Systems Center. 
-
-
-
-
-<img src="/images/mountain.jpg" width="35%" hspace="10" align="left">
+I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelor of Science in Mathematics at Saint Michael's College. After graduating, I jumped right into my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and the Vermont Complex Systems Center.
 
 When I am not at my laptop or reading papers, you can find me either in the mountains, where I am hiking or skiing, or at a Crossfit class.
 
-<div style="clear: both;"></div>
-
 ## Personal Interests
+
 * Mountain adventures (skiing, hiking)
 * Science fiction reading
 * Medical TV dramas
+
+::: {.about-photos layout-ncol="2"}
+![At the Vermont Complex Systems Center](images/roboctopus-web.jpg){fig-alt="Mariah standing next to the Vermont Complex Systems Center logo"}
+
+![Hiking in Washington State](images/mountain-web.jpg){fig-alt="Mariah on a rocky summit with snowy mountains behind her"}
+:::
+
+::: {.about-photos .about-wide}
+![Summit of Mount Mansfield, Vermont](images/mansfield-web.jpg){fig-alt="Snow-covered rocky summit of Mount Mansfield with ski trails and rolling mountains below"}
+:::
+
+```{=html}
+<style>
+.about-photos { max-width: 640px; margin: 2rem auto 0; }
+.about-photos img { border-radius: 8px; aspect-ratio: 3 / 4; object-fit: cover; width: 100%; }
+.about-wide { margin-top: 1rem; }
+.about-wide img { aspect-ratio: 4 / 3; }
+.about-photos figcaption { text-align: center; }
+</style>
+```
