@@ -2,6 +2,9 @@
 title: "Mariah C. Boudreau"
 subtitle: "Postdoctoral Researcher · Network Science · Mathematical Epidemiology"
 toc: false
+resources:
+  - images/banner.mp4
+  - images/banner-poster.jpg
 image: images/headshot-480.jpg
 about:
   template: trestles
@@ -21,6 +24,44 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/mariah-boudreau-940291147/
 ---
+
+```{=html}
+<div class="home-banner">
+  <video autoplay muted loop playsinline preload="auto" poster="images/banner-poster.jpg"
+         aria-label="Time-lapse of sunrise over snowy mountains">
+    <source src="images/banner.mp4" type="video/mp4">
+  </video>
+</div>
+<script>
+  // Lift the banner out of the about-page column so it spans the full page width
+  (function () {
+    var b = document.currentScript.previousElementSibling;
+    var content = document.getElementById("quarto-content");
+    if (content) content.parentNode.insertBefore(b, content);
+    // Respect the visitor's reduced-motion setting: show the still frame instead
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      var v = b.querySelector("video");
+      v.removeAttribute("autoplay");
+      v.pause();
+    }
+  })();
+</script>
+<style>
+.home-banner {
+  height: clamp(140px, 25vw, 340px);
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  background: #c9d3df;
+}
+.home-banner video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 60%;
+  display: block;
+}
+</style>
+```
 
 I am a Postdoctoral Researcher with the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/). I received a [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) from the [Vermont Complex Systems Institute at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). While at UVM, I worked in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/). My research has mostly focused on network science applied to infectious disease. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
 
