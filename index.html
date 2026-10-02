@@ -158,6 +158,40 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
+<div class="home-banner">
+  <video autoplay="" muted="" loop="" playsinline="" preload="auto" poster="images/banner-poster.jpg" aria-label="Time-lapse of sunrise over snowy mountains">
+    <source src="images/banner.mp4" type="video/mp4">
+  </video>
+</div>
+<script>
+  // Lift the banner out of the about-page column so it spans the full page width
+  (function () {
+    var b = document.currentScript.previousElementSibling;
+    var content = document.getElementById("quarto-content");
+    if (content) content.parentNode.insertBefore(b, content);
+    // Respect the visitor's reduced-motion setting: show the still frame instead
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      var v = b.querySelector("video");
+      v.removeAttribute("autoplay");
+      v.pause();
+    }
+  })();
+</script>
+<style>
+.home-banner {
+  height: clamp(140px, 25vw, 340px);
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  background: #c9d3df;
+}
+.home-banner video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 60%;
+  display: block;
+}
+</style>
 <p>I am a Postdoctoral Researcher with the <a href="https://www.networkscienceinstitute.org/">Network Science Institute</a> at the <a href="https://roux.northeastern.edu/nu_research/comp-med/">Roux Institute at Northeastern University</a>. I received a <a href="https://www.uvm.edu/cems/mathstat">Mathematical Sciences Ph.D.</a> from the <a href="https://vermontcomplexsystems.org/">Vermont Complex Systems Institute at the University of Vermont (UVM)</a>. While at UVM, I worked in the <a href="https://joint-lab.github.io/">Joint Lab</a> and <a href="https://compstorylab.org/">Computational Story Lab</a>. My research has mostly focused on network science applied to infectious disease. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes.</p>
 <p>Along with my interest in disease dynamics, my technical skills have made it possible for me to understand and learn about various aspects of the complex world around me, whether that be applied to biometric data, air-travel networks, or snow fall data.</p>
 <section id="research-interests" class="level2">
