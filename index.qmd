@@ -74,6 +74,8 @@ Along with my interest in disease dynamics, my technical skills have made it pos
 
 ## Recent News
 
+* **October 2026**: Joint work with Guillaume St-Onge, *Probability generating functions for epidemiological time series*, is now available on [arXiv](https://arxiv.org/abs/2610.17138)!
+
 * **June 2026**: Presented a talk titled *Generating function framework for spatiotemporal outbreak analytics* at [NetSci 2026](https://www.netsci2026.com/) in Boston.
 
 * **December 2025**: Presented a poster titled *Modeling and optimization of multimodal travel-based surveillance at airports* at [Epidemics10](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics) in San Diego.
@@ -83,7 +85,5 @@ Along with my interest in disease dynamics, my technical skills have made it pos
 * **September 2024**: Started as a Postdoctoral Researcher with the [Modeling of Biological and Socio-technical Systems](https://www.mobs-lab.org/) Lab and the [Network Science Institute](https://www.networkscienceinstitute.org/) at the [Roux Institute at Northeastern University](https://roux.northeastern.edu/nu_research/comp-med/) in Portland, ME.
 
 * **July 2024**: Successfully [defended](https://www.youtube.com/watch?v=FQ_YMGxsWEk) my dissertation, *Probabilistic modeling of disease: Addressing uncertainties in within-host and population-level dynamics*.
-
-* **June 2024**: Presented joint work, *Temporal and probabilistic comparisons of epidemic interventions*, at [NetSci 2024](https://netsci2024.com/en) in Québec City.
 
 [See all news →](news.qmd)

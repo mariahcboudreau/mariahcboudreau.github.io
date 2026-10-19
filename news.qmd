@@ -2,6 +2,8 @@
 title: "News Archive"
 ---
 
+* **October 2026**: Joint work with Guillaume St-Onge, *Probability generating functions for epidemiological time series*, is now available on [arXiv](https://arxiv.org/abs/2610.17138)!
+
 * **June 2026**: Presented a talk titled *Generating function framework for spatiotemporal outbreak analytics* at [NetSci 2026](https://www.netsci2026.com/) in Boston.
 
 * **December 2025**: Presented a poster titled *Modeling and optimization of multimodal travel-based surveillance at airports* at [Epidemics10](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics) in San Diego.
