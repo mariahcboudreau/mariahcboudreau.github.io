@@ -3,13 +3,13 @@ title: "About"
 toc: false
 ---
 
-I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelor of Science in Mathematics at Saint Michael's College. After graduating, I jumped right into my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and the Vermont Complex Systems Center.
+I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelor of Science in Mathematics at Saint Michael's College. After graduating, I jumped right into my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and the Vermont Complex Systems Institute.
 
-When I am not at my laptop or reading papers, you can find me either in the mountains, where I am hiking or skiing, or at a Crossfit class.
+When I am not at my laptop or reading papers, you can find me either in the mountains, where I am hiking or skiing, or spending time with my friends.
 
 ## Personal Interests
 
-* Mountain adventures (skiing, hiking)
+* Mountain adventures (skiing, hiking, climbing)
 * Science fiction reading
 * Medical TV dramas
 
