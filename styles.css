@@ -1,0 +1,44 @@
+/* Faint topographic contour lines behind every page */
+body {
+  background-color: #ffffff;
+  background-image: url("assets/topo.svg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* Mostly opaque panel behind page content so the contours don't compete with text */
+main.content,
+.quarto-about-trestles {
+  background-color: rgba(255, 255, 255, 0.92);
+  border-radius: 12px;
+  box-shadow: 0 1px 6px rgba(40, 60, 90, 0.08);
+  padding: 1.5rem 2rem;
+  margin-bottom: 2rem;
+}
+/* Home page: the profile layout already has its own panel */
+.quarto-about-trestles main.content {
+  background: none;
+  box-shadow: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+@media (max-width: 767.98px) {
+  main.content,
+  .quarto-about-trestles { padding: 1rem 1.1rem; }
+}
+
+/* Dark mode: lighter contour lines on a deep slate background, dark panels */
+body.quarto-dark {
+  background-color: #141c26;
+  background-image: url("assets/topo-dark.svg");
+}
+body.quarto-dark main.content,
+body.quarto-dark .quarto-about-trestles {
+  background-color: rgba(24, 33, 45, 0.92);
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.35);
+}
+body.quarto-dark .quarto-about-trestles main.content {
+  background: none;
+  box-shadow: none;
+}

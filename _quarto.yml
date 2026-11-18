@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - assets/topo.svg
+    - assets/topo-dark.svg
   render:
     - "*.qmd"
   
@@ -32,7 +35,11 @@ website:
 
 format:
   html:
-    theme: spacelab
+    theme:
+      light: spacelab
+      dark: [darkly, dark.scss]
+    respect-user-color-scheme: true
+    css: styles.css
     toc: true
     smooth-scroll: true
     html-math-method: katex
