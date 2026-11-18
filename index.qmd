@@ -8,7 +8,7 @@ resources:
 image: images/headshot-480.jpg
 about:
   template: trestles
-  image-width: 9em
+  image-width: 12em
   image-shape: rounded
   links:
     - icon: envelope
