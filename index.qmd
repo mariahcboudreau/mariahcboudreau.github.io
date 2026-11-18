@@ -70,10 +70,35 @@ I am a Postdoctoral Researcher with the [Network Science Institute](https://www.
 
 Along with my interest in disease dynamics, my technical skills have made it possible for me to understand and learn about various aspects of the complex world around me, whether that be applied to biometric data, air-travel networks, or snow fall data. 
 
-## Research Interests
-* Mathematical models for complex systems
-* Stochastic modeling
-* Disease dynamics
+
+```{=html}
+<div class="profile-extras">
+  <a class="btn cv-btn" href="CV.pdf" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-file-earmark-arrow-down" aria-hidden="true"></i> Download CV
+  </a>
+  <h3>Research Interests</h3>
+  <div class="interest-tags">
+    <span>Mathematical models for complex systems</span>
+    <span>Stochastic modeling</span>
+    <span>Disease dynamics</span>
+  </div>
+  <h3>Education</h3>
+  <ul class="edu-list">
+    <li><i class="bi bi-mortarboard" aria-hidden="true"></i>
+      <div><strong>Ph.D., Mathematical Sciences</strong><br>University of Vermont, 2024</div></li>
+    <li><i class="bi bi-mortarboard" aria-hidden="true"></i>
+      <div><strong>B.S., Mathematics</strong><br>Saint Michael's College, 2019</div></li>
+  </ul>
+</div>
+<script>
+  // Place these extras in the left profile column, under the contact buttons
+  (function () {
+    var x = document.currentScript.previousElementSibling;
+    var col = document.querySelector(".quarto-about-trestles .about-entity");
+    if (col) col.appendChild(x);
+  })();
+</script>
+```
 
 ## Recent News
 
